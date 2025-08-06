@@ -1,4 +1,4 @@
-package tech.buildrun.strategy.controller;
+package br.com.strategy.controller;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.validation.constraints.NotBlank;

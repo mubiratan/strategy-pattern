@@ -1,4 +1,4 @@
-package tech.buildrun.strategy;
+package br.com.strategy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

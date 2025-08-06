@@ -1,4 +1,4 @@
-package tech.buildrun.strategy;
+package br.com.strategy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
