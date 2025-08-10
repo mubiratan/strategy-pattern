@@ -1,8 +1,6 @@
 package br.com.strategy.controller;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.validation.constraints.NotBlank;
-
 
 public record NotificationRequest(
         @NotBlank
