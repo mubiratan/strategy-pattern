@@ -10,16 +10,8 @@
 
 </p>
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=i6hi2YGsiXU)
-
-## :rocket: Tecnologias utilizaas
-
 * Java 21
 * Spring Boot
 * Design Pattern Strategy
 
 :mag: Baixe o projeto e teste você mesmo na prática.
-
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
-
-Developed by Build & Run
